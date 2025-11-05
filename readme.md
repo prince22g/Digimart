@@ -1,4 +1,4 @@
-# Rajan Store Backend
+# DigiMart
 
 ## Auth
 
